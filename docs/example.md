@@ -22,7 +22,7 @@ The example app is a regular React Native app, so in case of problems or to lear
 In order to run example app you need to clone the repo first:
 
 ```bash
-git clone git@github.com:software-mansion/react-native-gesture-handler.git
+git clone http://github.com:software-mansion/react-native-gesture-handler.git
 ```
 
 Then go to the library folder:
